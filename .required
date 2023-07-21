@@ -1,0 +1,6 @@
+lab1/hello.c true
+lab1/echo_stdin.c true
+lab1/echo_arg.c true
+lab1/count.c true
+lab1/my_commands.sh true
+lab1/compile_all.sh true
