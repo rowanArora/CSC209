@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-
-./echo_arg > echo_out.txt
-./echo_stdin < echo_stdin.c
-./count 210 | wc -m
-ls -S | ./echo_stdin
